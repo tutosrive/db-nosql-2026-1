@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "69e3a6abcce6ece90f8e28ba"
+  },
+  "curso_id": 1,
+  "nombrecurso": "Bases de datos NoSQL",
+  "docente": "Óscar Bedoya",
+  "user_id": 1,
+  "user": {
+    "user_id": 1,
+    "nombre": "Juan Eduardo",
+    "programa": "Ingeniería de sistemas"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3a73dcce6ece90f8e28bc"
+  },
+  "curso_id": 2,
+  "nombrecurso": "Bases de datos NoSQL",
+  "docente": "Óscar Bedoya",
+  "user_id": 2,
+  "user": {
+    "user_id": 2,
+    "nombre": "Santiago",
+    "programa": "Ingeniería de sistemas"
+  }
+}]

@@ -1,0 +1,445 @@
+[{
+  "_id": {
+    "$oid": "69a456af9410c6deb9c0fff4"
+  },
+  "team_id": 1,
+  "nombre": "Real Madrid CF",
+  "ciudad": "Madrid, España",
+  "entrenador": {
+    "nombre": "Carlo Ancelotti",
+    "experiencia_anios": 29
+  },
+  "jugadores": [
+    {
+      "jugador_id": 1,
+      "nombre": "Thibaut Courtois",
+      "posicion": "Portero",
+      "dorsal": 1,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 0,
+        "asistencias": 0,
+        "n_rojas": 0,
+        "n_amarillas": 1,
+        "n_goles_torneo_equipo": 87,
+        "tipo_torneo": "La Liga"
+      }
+    },
+    {
+      "jugador_id": 2,
+      "nombre": "Antonio Rüdiger",
+      "posicion": "Defensa",
+      "dorsal": 22,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 2,
+        "asistencias": 1,
+        "n_rojas": 0,
+        "n_amarillas": 7,
+        "n_goles_torneo_equipo": 87,
+        "tipo_torneo": "La Liga"
+      }
+    },
+    {
+      "jugador_id": 3,
+      "nombre": "Jude Bellingham",
+      "posicion": "Centrocampista",
+      "dorsal": 5,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 19,
+        "asistencias": 6,
+        "n_rojas": 1,
+        "n_amarillas": 5,
+        "n_goles_torneo_equipo": 87,
+        "tipo_torneo": "La Liga"
+      }
+    },
+    {
+      "jugador_id": 4,
+      "nombre": "Vinícius Júnior",
+      "posicion": "Delantero",
+      "dorsal": 7,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 15,
+        "asistencias": 5,
+        "n_rojas": 0,
+        "n_amarillas": 7,
+        "n_goles_torneo_equipo": 87,
+        "tipo_torneo": "La Liga"
+      }
+    },
+    {
+      "jugador_id": 5,
+      "nombre": "Kylian Mbappé",
+      "posicion": "Delantero",
+      "dorsal": 9,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 27,
+        "asistencias": 7,
+        "n_rojas": 0,
+        "n_amarillas": 2,
+        "n_goles_torneo_equipo": 87,
+        "tipo_torneo": "La Liga"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a456db9410c6deb9c0fff5"
+  },
+  "team_id": 2,
+  "nombre": "Manchester City FC",
+  "ciudad": "Manchester, Inglaterra",
+  "entrenador": {
+    "nombre": "Pep Guardiola",
+    "experiencia_anios": 16
+  },
+  "jugadores": [
+    {
+      "jugador_id": 6,
+      "nombre": "Ederson Moraes",
+      "posicion": "Portero",
+      "dorsal": 31,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 0,
+        "asistencias": 1,
+        "n_rojas": 0,
+        "n_amarillas": 2,
+        "n_goles_torneo_equipo": 96,
+        "tipo_torneo": "Premier League"
+      }
+    },
+    {
+      "jugador_id": 7,
+      "nombre": "Ruben Dias",
+      "posicion": "Defensa",
+      "dorsal": 3,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 1,
+        "asistencias": 0,
+        "n_rojas": 0,
+        "n_amarillas": 3,
+        "n_goles_torneo_equipo": 96,
+        "tipo_torneo": "Premier League"
+      }
+    },
+    {
+      "jugador_id": 8,
+      "nombre": "Rodri Hernández",
+      "posicion": "Centrocampista",
+      "dorsal": 16,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 8,
+        "asistencias": 9,
+        "n_rojas": 1,
+        "n_amarillas": 8,
+        "n_goles_torneo_equipo": 96,
+        "tipo_torneo": "Premier League"
+      }
+    },
+    {
+      "jugador_id": 9,
+      "nombre": "Kevin De Bruyne",
+      "posicion": "Centrocampista",
+      "dorsal": 17,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 4,
+        "asistencias": 10,
+        "n_rojas": 0,
+        "n_amarillas": 2,
+        "n_goles_torneo_equipo": 96,
+        "tipo_torneo": "Premier League"
+      }
+    },
+    {
+      "jugador_id": 10,
+      "nombre": "Erling Haaland",
+      "posicion": "Delantero",
+      "dorsal": 9,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 27,
+        "asistencias": 5,
+        "n_rojas": 0,
+        "n_amarillas": 1,
+        "n_goles_torneo_equipo": 96,
+        "tipo_torneo": "Premier League"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a456e99410c6deb9c0fff6"
+  },
+  "team_id": 3,
+  "nombre": "FC Barcelona",
+  "ciudad": "Barcelona, España",
+  "entrenador": {
+    "nombre": "Hansi Flick",
+    "experiencia_anios": 21
+  },
+  "jugadores": [
+    {
+      "jugador_id": 11,
+      "nombre": "Marc-André ter Stegen",
+      "posicion": "Portero",
+      "dorsal": 1,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 0,
+        "asistencias": 0,
+        "n_rojas": 0,
+        "n_amarillas": 1,
+        "n_goles_torneo_equipo": 79,
+        "tipo_torneo": "La Liga"
+      }
+    },
+    {
+      "jugador_id": 12,
+      "nombre": "Pau Cubarsí",
+      "posicion": "Defensa",
+      "dorsal": 2,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 0,
+        "asistencias": 1,
+        "n_rojas": 0,
+        "n_amarillas": 4,
+        "n_goles_torneo_equipo": 79,
+        "tipo_torneo": "La Liga"
+      }
+    },
+    {
+      "jugador_id": 13,
+      "nombre": "Pedri González",
+      "posicion": "Centrocampista",
+      "dorsal": 8,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 4,
+        "asistencias": 2,
+        "n_rojas": 0,
+        "n_amarillas": 3,
+        "n_goles_torneo_equipo": 79,
+        "tipo_torneo": "La Liga"
+      }
+    },
+    {
+      "jugador_id": 14,
+      "nombre": "Lamine Yamal",
+      "posicion": "Delantero",
+      "dorsal": 19,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 5,
+        "asistencias": 8,
+        "n_rojas": 0,
+        "n_amarillas": 2,
+        "n_goles_torneo_equipo": 79,
+        "tipo_torneo": "La Liga"
+      }
+    },
+    {
+      "jugador_id": 15,
+      "nombre": "Robert Lewandowski",
+      "posicion": "Delantero",
+      "dorsal": 9,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 19,
+        "asistencias": 8,
+        "n_rojas": 0,
+        "n_amarillas": 5,
+        "n_goles_torneo_equipo": 79,
+        "tipo_torneo": "La Liga"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a456fc9410c6deb9c0fff7"
+  },
+  "team_id": 4,
+  "nombre": "Bayer 04 Leverkusen",
+  "ciudad": "Leverkusen, Alemania",
+  "entrenador": {
+    "nombre": "Xabi Alonso",
+    "experiencia_anios": 6
+  },
+  "jugadores": [
+    {
+      "jugador_id": 16,
+      "nombre": "Lukas Hradecky",
+      "posicion": "Portero",
+      "dorsal": 1,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 0,
+        "asistencias": 0,
+        "n_rojas": 0,
+        "n_amarillas": 1,
+        "n_goles_torneo_equipo": 89,
+        "tipo_torneo": "Bundesliga"
+      }
+    },
+    {
+      "jugador_id": 17,
+      "nombre": "Alejandro Grimaldo",
+      "posicion": "Defensa",
+      "dorsal": 20,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 10,
+        "asistencias": 13,
+        "n_rojas": 0,
+        "n_amarillas": 3,
+        "n_goles_torneo_equipo": 89,
+        "tipo_torneo": "Bundesliga"
+      }
+    },
+    {
+      "jugador_id": 18,
+      "nombre": "Granit Xhaka",
+      "posicion": "Centrocampista",
+      "dorsal": 34,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 3,
+        "asistencias": 0,
+        "n_rojas": 0,
+        "n_amarillas": 5,
+        "n_goles_torneo_equipo": 89,
+        "tipo_torneo": "Bundesliga"
+      }
+    },
+    {
+      "jugador_id": 19,
+      "nombre": "Florian Wirtz",
+      "posicion": "Centrocampista",
+      "dorsal": 10,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 11,
+        "asistencias": 11,
+        "n_rojas": 0,
+        "n_amarillas": 2,
+        "n_goles_torneo_equipo": 89,
+        "tipo_torneo": "Bundesliga"
+      }
+    },
+    {
+      "jugador_id": 20,
+      "nombre": "Victor Boniface",
+      "posicion": "Delantero",
+      "dorsal": 22,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 14,
+        "asistencias": 8,
+        "n_rojas": 0,
+        "n_amarillas": 2,
+        "n_goles_torneo_equipo": 89,
+        "tipo_torneo": "Bundesliga"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a4570b9410c6deb9c0fff8"
+  },
+  "team_id": 5,
+  "nombre": "Inter Milan",
+  "ciudad": "Milán, Italia",
+  "entrenador": {
+    "nombre": "Simone Inzaghi",
+    "experiencia_anios": 8
+  },
+  "jugadores": [
+    {
+      "jugador_id": 21,
+      "nombre": "Yann Sommer",
+      "posicion": "Portero",
+      "dorsal": 1,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 0,
+        "asistencias": 0,
+        "n_rojas": 0,
+        "n_amarillas": 1,
+        "n_goles_torneo_equipo": 89,
+        "tipo_torneo": "Serie A"
+      }
+    },
+    {
+      "jugador_id": 22,
+      "nombre": "Alessandro Bastoni",
+      "posicion": "Defensa",
+      "dorsal": 95,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 1,
+        "asistencias": 3,
+        "n_rojas": 0,
+        "n_amarillas": 4,
+        "n_goles_torneo_equipo": 89,
+        "tipo_torneo": "Serie A"
+      }
+    },
+    {
+      "jugador_id": 23,
+      "nombre": "Hakan Çalhanoğlu",
+      "posicion": "Centrocampista",
+      "dorsal": 20,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 13,
+        "asistencias": 3,
+        "n_rojas": 0,
+        "n_amarillas": 2,
+        "n_goles_torneo_equipo": 89,
+        "tipo_torneo": "Serie A"
+      }
+    },
+    {
+      "jugador_id": 24,
+      "nombre": "Nicolò Barella",
+      "posicion": "Centrocampista",
+      "dorsal": 23,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 2,
+        "asistencias": 3,
+        "n_rojas": 0,
+        "n_amarillas": 7,
+        "n_goles_torneo_equipo": 89,
+        "tipo_torneo": "Serie A"
+      }
+    },
+    {
+      "jugador_id": 25,
+      "nombre": "Lautaro Martínez",
+      "posicion": "Delantero",
+      "dorsal": 10,
+      "titular": "si",
+      "estadisticas": {
+        "goles": 24,
+        "asistencias": 3,
+        "n_rojas": 0,
+        "n_amarillas": 3,
+        "n_goles_torneo_equipo": 89,
+        "tipo_torneo": "Serie A"
+      }
+    }
+  ]
+}]
