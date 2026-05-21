@@ -6,6 +6,11 @@
 
 ---
 
+> La gran mayoría de clases de este curso han sido grabadas ... en modalidad "Screen Recorder", se encuentran en esta playlist
+> <a href="https://www.youtube.com/playlist?list=PLbrkyIFCPjn3n8LIRD6x7wftmEaKOfLT5"><img width="300" alt="nosql1" src="https://github.com/user-attachments/assets/871872e3-cb14-4a4f-b0de-d56d1d8db241" /></a>
+
+---
+
 ## 📑 Tabla de Contenidos
 
 - [Acerca del Proyecto](#acerca-del-proyecto)
