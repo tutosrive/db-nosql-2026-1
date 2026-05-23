@@ -1,0 +1,25 @@
+> oscar.bedoya@ucaldas.edu.co
+> Asunto<NoSQL_Sabados>
+> 3116211165
+
+## Horario:
+ - Jueves 12-3
+
+## Notas:
+
+- P1. 25% Grupal -> 14 Marzo (Sustentación)
+- P2 . 25% Individual (En inglés, diccionario)
+- Final 20% Operativo
+
+- Proyecto 20%:
+ - Máximo 2 personas
+ - Que sea alcanzable ...
+
+
+ ---
+
+## Herramientas
+
+- MongoShell
+- Robo3
+- MongoDB

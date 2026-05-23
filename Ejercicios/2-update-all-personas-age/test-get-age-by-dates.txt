@@ -1,0 +1,13 @@
+db.testDates.aggregate(
+	{
+		$project: {
+			yearsDiff: {
+				$dateDiff: {
+					startDate: {$dateFromString: {dateString: "$date"}},
+					endDate: "$$NOW",
+					unit: "year"
+				}
+			}
+		}
+	}
+)

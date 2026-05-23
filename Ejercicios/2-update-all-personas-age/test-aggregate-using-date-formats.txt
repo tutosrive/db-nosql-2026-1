@@ -1,0 +1,18 @@
+db.personas.aggregate({
+	$project: {
+		name: "$name.first",
+		date: "$dob.date",
+		yearsDiff: {
+			$toInt:
+			{$dateDiff: {
+							startDate: {$dateFromString: {
+								dateString: "$dob.date"
+							}},
+							endDate: "$$NOW",
+							unit: "year"
+						}}
+		}
+	}
+},
+{$limit: 1}
+)

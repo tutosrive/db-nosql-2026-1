@@ -1,0 +1,16 @@
+db.personas.updateMany({},
+	[{$set: {"dob.age": {
+		$toInt: {
+			$dateDiff: {
+				startDate: {
+				$dateFromString: {
+					dateString: "$dob.date"
+				}
+			},
+			endDate: "$$NOW",
+			unit: "year"
+		}
+	} 
+	}}
+}]
+)
